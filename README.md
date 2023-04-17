@@ -8,3 +8,5 @@ The model takes various features of the voice, such as Jitters, Shimmers, NHR, H
 
 In this project, the Random Forest Classifier has been compared with other classifiers such as Guassian Naive Bayes, SVM, Decision Tree and Linear Regressor.
 Out of all these classifiers, Random Forest Classifier gave the best Accuracy, Precision and Recall. Hence it could be concluded that Random Forest Classifier gives the best results for the detection of Parkinsons Disease. 
+
+You can read more about it on my medium article: https://medium.com/@sabahat.shaik0708/parkinsons-disease-detection-using-random-classifier-6f7f1271907f
